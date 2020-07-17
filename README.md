@@ -1,4 +1,4 @@
-### Hi there 👋
+### Freelance senior software developer / solution architect
 
 <!--
 **henrikrxn/henrikrxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
