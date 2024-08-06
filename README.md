@@ -6,7 +6,9 @@ I am a full-stack dev but have mostly done back-end work and with a lot of exper
 
 Since 2004 I have worked on projects that have used an agile approach. I tried agile project management for a while, but my heart is in development.
 
-Since 2011 I have worked solely on C# (.NET) projects, the five years before that I switched between C# (.NET) and Java projects and even further back it was all Java.
+In 2024 I have worked on a Java project based on Spring Boot. 
+
+From 2011-2023 I have worked solely on C# (.NET) projects, the five years before that I switched between C# (.NET) and Java projects and even further back it was all Java.
 
 I have the skills and ability to take small or medium sized projects all the way from inception to production and have the track record to prove it.
 
