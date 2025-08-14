@@ -25,7 +25,7 @@ I believe it is much more important to choose techonologies that suit both the c
 But of course I have preferences and my current preferences for greenfield back-end projects are not very esoteric, but have all worked for me in the past
 
 - .NET 8+ (+ ASP.NET Core 8+)
-- Serilog
-- xUnit.net, NSubstiture, FluentAssertions
+- Serilog and OpenTelemetry
+- xUnit.net, NSubstiture, Shouldly
 - Git
 - CI/CD
